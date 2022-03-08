@@ -1,0 +1,69 @@
+html, body {
+	background-color: #fff;
+	color: #000;
+	margin: 5px;
+	padding: 0;
+    background-image: url("obraz.jpg");
+}
+
+a {
+    font-size: 18px;
+    color: rgb(133, 52, 76);
+}
+
+#top {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+    
+}
+
+#header {
+    font-size: 50px;
+    text-align: center;
+	background-color: rgb(255, 180, 198);
+    color: rgb(133, 52, 76);
+}
+
+#undertale {
+	width: 33.3%;
+	float: left;
+	overflow: hidden;
+	background-color: rgb(255, 217, 226);
+    text-align: center;
+}
+
+#fnaf {
+	width: 33.4%;
+	float: right;
+	overflow: hidden;
+	background-color: rgb(255, 217, 226);
+    text-align: center;
+}
+
+#lol {
+	width: 33.3%;
+	float: left;
+	overflow: hidden;
+	background-color: rgb(255, 217, 226);
+    text-align: center;
+}
+
+
+#section {
+    width: 80%;
+    margin: auto;
+    background-color: rgb(255, 238, 242);
+    padding: 5px;
+    color: rgb(133, 52, 76);
+}
+
+#footer {
+	clear: both;
+	width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: rgb(233, 144, 165);
+    text-align: center;
+}
